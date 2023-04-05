@@ -1,6 +1,5 @@
 # Laravel 10 Blog Starter Kit
-This is Laravel 10 blog starter kit project with [Filament PHP](https://filamentphp.com/) admin panel. The project is created during [YouTube Tutorial](https://youtu.be/iVThaG_sAt0).
-
+This is Laravel 10 blog starter kit project with [Filament PHP](https://filamentphp.com/).
 ## Installation with docker
 
 #### 1. Clone the project
